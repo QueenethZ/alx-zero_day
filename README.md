@@ -1,1 +1,1 @@
-My first readme
+people are weird
